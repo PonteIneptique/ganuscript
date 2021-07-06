@@ -1,0 +1,1 @@
+Unlike other folder, this folder contains the colorization of each image + the HTR Groundtruth. This was easier that predicting for each image the original label.

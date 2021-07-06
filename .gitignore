@@ -1,0 +1,13 @@
+# Specific items
+prediction/segmentation/*/*.png
+*.log
+tools/*.jar
+
+# Whole directories
+models
+# Will be authorized later
+data
+
+# Python stuff
+env
+.ipynb_checkpoints
