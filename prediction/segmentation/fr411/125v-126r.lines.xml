@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 		<Creator>kraken</Creator>
-		<Created>2021-07-06T16:36:36.596697</Created>
-		<LastChange>2021-07-06T16:36:36.596697</LastChange>
+		<Created>2021-07-06T21:27:06.725159</Created>
+		<LastChange>2021-07-06T21:27:06.725159</LastChange>
 	</Metadata>
 	<Page imageFilename="./gt/microfilms/fr411/125v-126r.jpg" imageWidth="8676" imageHeight="6169"><p:TextRegion xmlns:p="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" id="region_textline"><TextLine id="line_0">
 								<Coords points="2677,548 2677,483 2752,462 2793,483 2852,483 2876,462 2920,469 2941,452 2999,452 2999,620 2968,637 2896,637 2855,613 2752,620 2725,637 2677,623"/>

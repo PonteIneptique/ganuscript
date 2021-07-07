@@ -1,6 +1,6 @@
 #!/bin/sh
 
-for testfile in ./prediction/htr/test-sets/test-microfilm-*.txt; \
+for testfile in ./prediction/htr/test-sets/*.txt; \
 	do for model in ./models/htr/*.mlmodel; \
 		do echo "TESTFILE:$testfile" && \
 			echo "MODEL:$model" && \

@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
 	<Metadata>
 		<Creator>kraken</Creator>
-		<Created>2021-07-06T16:36:59.069491</Created>
-		<LastChange>2021-07-06T16:36:59.069491</LastChange>
+		<Created>2021-07-06T21:27:28.527081</Created>
+		<LastChange>2021-07-06T21:27:28.527081</LastChange>
 	</Metadata>
 	<Page imageFilename="./prediction/colorization/fr411/125v-126r.jpg" imageWidth="8676" imageHeight="6169"><p:TextRegion xmlns:p="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" id="region_textline"><TextLine id="line_0">
 								<Coords points="2673,548 2673,486 2725,469 2762,462 2793,486 2845,486 2869,462 2917,472 2941,452 3002,452 3002,620 2968,637 2896,637 2855,613 2762,630 2752,620 2725,637 2673,623"/>
