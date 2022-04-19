@@ -1,0 +1,66 @@
+Contributeur,Nom MSS,ID,Manifest,Source,start,end,type,Siecle,Langue,Genre,Downloaded
+JB,,bbb-0113,https://www.e-codices.unifr.ch/metadata/iiif/bbb-0113/manifest.json,e-codices,1,290,medieval,13,fro,epic,
+JB,,Boulogne-sur-Mer/B621606201_MS0192,Manifest ????,bvmm,5,342,medieval,,fro,epic,
+JB,,btv1b10467092n,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10467092n/manifest.json,gallica,1,342,medieval,13,fro,epic,y
+JB,,btv1b10515441p,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515441p/manifest.json,gallica,3,523,medieval,13,fro,epic,y
+JB,,btv1b52509007k,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509007k/manifest.json,gallica,1,273,medieval,13,fro,epic,y
+JB,,btv1b52510692j,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510692j/manifest.json,gallica,15,400,medieval,13,fro,epic,y
+JB,,btv1b55003999w,https://gallica.bnf.fr/iiif/ark:/12148/btv1b55003999w/manifest.json,gallica,1,321,medieval,13,fro,epic,y
+JB,,btv1b6000370c,https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000370c/manifest.json,gallica,9,18,medieval,13,fro,epic,y
+JB,,btv1b6000371s,https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000371s/manifest.json,gallica,1,4142,medieval,13,fro,epic,y
+JB,,btv1b60005272,https://gallica.bnf.fr/iiif/ark:/12148/btv1b60005272/manifest.json,gallica,8,538,medieval,14,fro,epic,y
+JB,,btv1b8419243k,https://gallica.bnf.fr/iiif/ark:/12148/btv1b8419243k/manifest.json,gallica,1,256,medieval,13,fro,epic,y
+JB,,btv1b84516032,https://gallica.bnf.fr/iiif/ark:/12148/btv1b84516032/manifest.json,gallica,1,210,medieval,13,fro,epic,y
+JB,,btv1b8468308j,https://gallica.bnf.fr/iiif/ark:/12148/btv1b8468308j/manifest.json,gallica,1,107,medieval,14,fro,epic,y
+JB,,cb-0001,https://www.e-codices.unifr.ch/metadata/iiif/fmb-cb-0001/manifest.json,e-codices,1,133,medieval,13,fro,roman,
+JB,,cb-0011,https://www.e-codices.unifr.ch/metadata/iiif/fmb-cb-0011/manifest.json,e-codices,1,80,medieval,15,fro,epic,
+JB,,cb-0015,https://www.e-codices.unifr.ch/metadata/iiif/fmb-cb-0015/manifest.json,e-codices,1,117,medieval,15,frm,epic in prose,
+JB,,cb-0018,https://www.e-codices.unifr.ch/metadata/iiif/fmb-cb-0018/manifest.json,e-codices,1,268,medieval,13,fro,roman antique,
+JB,,cb-0067,https://www.e-codices.unifr.ch/metadata/iiif/fmb-cb-0067/manifest.json,e-codices,1,84,medieval,13,fro,epic,
+JB,,cb-0168,https://www.e-codices.unifr.ch/metadata/iiif/fmb-cb-0168/manifest.json,e-codices,1,222,medieval,13,fro,epic,
+JB,,F-IV-0044,https://www.e-codices.unifr.ch/metadata/iiif/ubb-F-IV-0044/manifest.json,e-codices,1,72,medieval,15,fro,epic,
+JB,,fr0072,https://www.e-codices.unifr.ch/metadata/iiif/bge-fr0072/manifest.json,e-codices,1,252,medieval,15,frm,histoire (ancienne jusqu'à César),
+JB,,fr0076,https://www.e-codices.unifr.ch/metadata/iiif/bge-fr0076/manifest.json,e-codices,1,264,medieval,15,fro,histoire,
+JB,,fr0182,https://www.e-codices.unifr.ch/metadata/iiif/bge-fr0182/manifest.json,e-codices,1,232,medieval,15,,Digulleville,
+JB,,M0454,https://www.e-codices.unifr.ch/metadata/iiif/bcul-M0454/manifest.json,e-codices,1,123,medieval,14,fro,allegorie,
+JB,,Mslitt-0010-1,https://www.e-codices.unifr.ch/metadata/iiif/aev-Mslitt-0010-1/manifest.json,e-codices,1,1,medieval,14,fro,epic,bug
+TC,2282,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515462z/manifest.json,gallica,1,19,medieval,16,fro,poesie,y
+TC,,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025358s/manifest.json,gallica,1,104,medieval,14,fro,hagio,y
+TC,2171,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509685z/manifest.json,gallica,1,32,medieval,13,fro,roman de tristan,y
+TC,2224,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b85397092/manifest.json,gallica,1,48,medieval,16,fro,psaumes,y
+TC,2063,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b8529505f/manifest.json,gallica,1,163,medieval,14,fro,militaire-lapidaire,y
+TC,2043,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510820h/manifest.json,gallica,1,164,medieval,15,fro,medecine,y
+TC,2095,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025466p/manifest.json,gallica,3,192,medieval,14,fro,religieux,y
+TC,1753,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52507230r/manifest.json,gallica,1,157,medieval,14,fro,religieux,y
+TC,1761,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52000450j/manifest.json,gallica,1,199,medieval,13,fro,religieux,y
+TC,187,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10022387j/manifest.json,gallica,1,117,medieval,14,fro,religieux,y
+TC,334,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10509662s/manifest.json,gallica,3,350,medieval,14,fro,roman de tristan,y
+TC,400,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105258207/manifest.json,gallica,1,64,medieval,14,fro,"traités,religieux",y
+TC,376,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b84702013/manifest.json,gallica,1,236,medieval,14,fro,religieux,y
+TC,LATIN 17177,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b105446322/manifest.json,gallica,1,111,medieval,Divers-Fragments,"fro,lat,grc",divers,y
+TC,Picardie 289,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b54100460q/manifest.json,gallica,1,148,medieval,12,fro,chartes,y
+TC,5963,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510972v/manifest.json,gallica,1,92,medieval,14,fro,coutumier,y
+TC,25523,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000366g/manifest.json,gallica,1,177,medieval,14,fro,roman de tristan,y
+TC,26606,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b541003394/manifest.json,gallica,1,198,medieval,Divers-Fragments,fro,fragments,y
+TC,24428,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10527646p/manifest.json,gallica,1,118,medieval,13,fro,imagedumonde,y
+TC,14964,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013438c/manifest.json,gallica,1,208,medieval,13,fro,Image du monde.,y
+TC,15211,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000798t/manifest.json,gallica,1,280,medieval,14,fro,chansons,y
+TC,11204,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b525097003/manifest.json,gallica,1,21,medieval,Divers-Fragments,fro,fragments,y
+TC,24406,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b84386028/manifest.json,gallica,1,155,medieval,13,fro,chansons,y
+TC,Cod. Bodmer 129,cb-0129,https://www.e-codices.unifr.ch/metadata/iiif/fmb-cb-0129/manifest.json,e-codices,1,12,medieval,12,"lat,fro",poetry,
+TC,Ms-1184,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b550078004/manifest.json,gallica,1,124,medieval,12,"lat,fro",evangiles,y
+TC,Ms-612,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b8490071m/manifest.json,gallica,1,186,medieval,10,"lat,fro",evangiles,y
+TC,Ms-1086,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b525091393/manifest.json,gallica,3,259,medieval,12,"lat,fro",epistolaire,y
+TC,"Toulouse. Bibliothèque municipale, Ms. 163",,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10560056n/manifest.json,gallica,1,99,medieval,12,"lat,fro,oci",religieux,y
+TC,Ms-294,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509145q/manifest.json,gallica,1,186,medieval,12,"lat,fro",religieux,y
+TC,Ms-711,,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501503x/manifest.json,gallica,1,243,medieval,12,lat,"religieux,antiq",y
+SG,Fr 12822,btv1b53000317w,https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000317w/manifest.json,gallica,,,classique,17,fr,brouillons,
+SG,Fr 12820,btv1b52510049b,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510049b/manifest.json,gallica,,,classique,17,fr,brouillons,
+SG,NAF 17359 ,btv1b6000970f,https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000970f/manifest.json,gallica,,,classique,17,fr,roman,
+SG,Fr 24991,btv1b52510963w,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510963w/manifest.json,gallica,,,classique,17,fr,correspondance,
+SG,Fr 27250,btv1b10540051s,https://gallica.bnf.fr/iiif/ark:/12148/btv1b10540051s/manifest.json,gallica,,,classique,17,fr,correspondance,
+SG,Fr 12887,btv1b530003279,https://gallica.bnf.fr/iiif/ark:/12148/btv1b530003279/manifest.json,gallica,,,classique,17,fr,brouillons,
+SG,Arsenal. Ms-5131 réserve,btv1b550101206,https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101206/manifest.json,gallica,,,classique,17,fr,recueil,
+SG,Arsenal. Ms-5132 réserve,btv1b55010121n,https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010121n/manifest.json,gallica,,,classique,17,fr,recueil,
+SG,Arsenal. Ms-5420,btv1b525103553,https://gallica.bnf.fr/iiif/ark:/12148/btv1b525103553/manifest.json,gallica,,,classique,17,fr,recueil,
+SG,Arsenal. Ms-5420,bcul-M0454,https://gallica.bnf.fr/iiif/ark:/12148/bcul-M0454/manifest.json,gallica,,,classique,14,fr,recueil,
